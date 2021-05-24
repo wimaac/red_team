@@ -1,0 +1,4 @@
+ChannelType,Address,EndpointStatus,OptOut,Id,Attributes.Email,Attributes.EndpointId,User.UserAttributes.FirstName,User.UserAttributes.LastName
+EMAIL,michael.jiang@accenturefederal.com,ACTIVE,NONE,12345,recipient%40example.com,12345,Michael,Jiang
+EMAIL,lauren.white@accenturefederal.com,ACTIVE,NONE,12345,recipient%40example.com,12345,Lauren,White
+EMAIL,danielle.finney@accenturefederal.com,ACTIVE,NONE,12346,recipient%40example.com,12346,Danielle,Finney

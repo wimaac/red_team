@@ -1,0 +1,2 @@
+{"ChannelType":"EMAIL","Address":"michael.jiang@accenturefederal.com","Location":{"Country":"US"},"Demographic":{"Platform":"iOS","Make":"Apple"},"User":{"UserId":"example-user-id-1"}}
+{"ChannelType":"EMAIL","Address":"antonino.ardizzone@accenturefederal.com","Location":{"Country":"US"},"Demographic":{"Platform":"Android","Make":"OnePlus"},"User":{"UserId":"example-user-id-2"}}
